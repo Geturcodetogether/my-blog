@@ -1,16 +1,247 @@
-# The URL the site will be built for
-base_url = "https://www.chic-yeast.com"
-
-# Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
-
-# Whether to build a search index to be used later on by a JavaScript library
+# =========================
+# 基础设置
+# =========================
+base_url = "https://www.chic-yeast.com"     # 部署后的博客地址
+theme = "linkita"                        # 启用 Linkita 主题
+default_language = "en"                  # 默认语言，可改为 zh
+title = "Mandy 的博客"                # 博客名称
+description = "Fashion · Design · Music · Philosophy by Mandy"
 build_search_index = true
+generate_feeds = true
+feed_filenames = ["atom.xml"]
 
-[markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = true
+# 作者信息
+author = "Mandy"
 
+
+# =========================
+# Taxonomies 分类
+# =========================
+[[taxonomies]]
+name = "categories"
+feed = true
+paginate_by = 4
+
+[[taxonomies]]
+name = "tags"
+feed = true
+paginate_by = 4
+
+[[taxonomies]]
+name = "authors"
+feed = true
+paginate_by = 4
+
+# =========================
+# Extra 配置（主题特定）
+# =========================
 [extra]
-# Put all your custom variables here
+
+# 是否启用数学公式或Mermaid图表
+# Default value: false
+math = false
+mermaid = false
+comment = true
+title_separator = " | "
+copyright = "© 2025 Mandy Yan"
+
+
+# The top menu.
+# See "extra.menus".
+header_menu_name = "menu_name"
+
+# See "extra.menus".
+menu_i18n = false
+
+
+
+
+# If you disable default favicons, you can use
+# the inject support to set your own favicons.
+# Default value: false
+disable_default_favicon = false
+
+# If you want to implement the JS code
+# yourself, set to true and use the inject support.
+# Default value: false
+disable_javascript = false
+
+# Use a CDN for libraries like KaTeX.
+# Default value: false
+use_cdn = false
+
+# Use relative urls.
+# It doesn't apply for content yet.
+# Default value: false
+relative_urls = false
+
+# If you want to view the site without a webserver
+# set this and "relative_urls" to true.
+# Default value: false
+ugly_urls = false
+
+# Prioritize summary over description.
+# Default value: false
+page_summary_on_paginator = false
+
+# Reverse the order of prev and next post links.
+# Default value: false
+invert_page_navigation = false
+
+# Header buttons.
+# Valid values:
+#  "site_title", "home_button", "theme_select", "theme_button",
+#  "search_button", "translations_select", "translations_button".
+# Can be set to an empty array.
+header_buttons = ["site_title", "theme_select", "search_button", "translations_select"]
+
+# What info is shown on post pages.
+# Valid "when" values:
+#  "date", "date_updated", "reading_time", "word_count", "authors", "tags", "".
+# The "prepend" and "append" are used when the value of "when" is defined for the page.
+# e.g. [{when="", prepend="Page Info: "},{when="date",prepend="Published on "},{when="authors",prepend="By "}]
+page_info = [{ when="date" }, { when="date_updated", prepend="(", append=")" }, { when="reading_time" }]
+
+# What info is shown for posts on paginators.
+# page_info_on_paginator = [{ when="date" }, { when="reading_time" }]
+
+# Enable table of contents on all pages.
+# If not set, toc is enabled only on posts.
+# If set to false, toc is disabled on all pages.
+# Type: boolean or object
+# toc = true
+
+# =========================
+# 样式定制（符合你的橙染＋暖白风格）
+# =========================
+[extra.style]
+# The custom background color.
+bg_color = "#f4f4f5"
+# The custom background color in dark mode.
+bg_dark_color = "#18181b"
+
+# Enable header blur.
+header_blur = false
+
+# The custom header color, only available
+# when "header_blur" is false.
+header_color = "#e4e4e7"
+# The custom header color in dark mode, only available
+# when "header_blur" is false.
+header_dark_color = "#27272a"
+
+# =========================
+# 菜单导航
+# =========================
+[extra.menus]
+menu_name = [
+  { url = "$BASE_URL/blog/", name = "文章" },
+  { url = "$BASE_URL/ideas/", name = "灵感" },
+  { url = "$BASE_URL/projects/", name = "项目" },
+  { url = "$BASE_URL/tags/", name = "标签" },
+  { url = "$BASE_URL/about/", name = "关于" },
+]
+
+
+# =========================
+# 文章分页
+# =========================
+paginate_by = 5
+
+# =========================
+# 社交链接
+# =========================
+[extra.social]
+github = "https://github.com/Getyourcodetogether"
+linkedin = "https://www.linkedin.com/in/mandy-yan-3b15951bb/"
+instagram = "https://www.instagram.com/mandyyan1015/"
+
+# =========================
+# 自定义字体（可选）
+# =========================
+[extra.fonts]
+heading = "Playfair Display, serif"
+body = "Inter, sans-serif"
+
+# =========================
+# favicon & 图标
+# =========================
+[extra.favicon]
+favicon_ico = "blobs_filled (1).svg"
+favicon_png = "blobs_filled (1).svg"
+apple_touch_icon = "blobs_filled (1).svg"
+
+# =========================
+# SEO 优化
+# =========================
+[extra.seo]
+enable_sitemap = true
+robots = "index, follow"
+google_site_verification = ""  # 如果有可以填
+
+# =========================
+[extra.giscus]
+# No default value.
+repo = "Geturcodetogether/my-blog"
+# No default value.
+repo_id = "R_kgDOQU0kNw"
+# No default value.
+category = "blog"
+# No default value.
+category_id = ""
+# Default value: "pathname"
+mapping = "blog"
+# Default value: 1
+strict = 1
+# Default value: 0
+reactions_enabled = 0
+# Default value: 0
+emit_metadata = 0
+# Default value: "top"
+input_position = "top"
+# Default value: "preferred_color_scheme"
+theme = "dark_tritanopia"
+# Default value: "en"
+lang = "zh-CN"
+# Default value: "lazy"
+loading = "lazy"
+
+# =========================
+
+
+# Replace "your_username" with your username.
+[extra.profiles.Mandy]
+
+# The URL of avatar.
+# e.g. "icons/github.svg"
+avatar_url = "icons/blobs_filled (1).svg"
+
+# A description of what is in the avatar.
+avatar_alt = "头像"
+
+# Invert avatar color in dark mode.
+# Default value: false
+avatar_invert = false
+
+# Profile name.
+# Default value: the username
+name = "杂食酵母"
+
+
+# Social icons.
+# "name" should be the file name of "static/icons/*.svg" or
+# the icon name of https://simpleicons.org/
+# "url" supports "$BASE_URL".
+# Other variables: "urls", "title", "titles".
+social = [
+    { name = "Email", url = "mailto:mandyingnow@163.com" },
+    { name = "Github", url = "https://github.com/Geturcodetogether" },
+    { name = "Sina-weibo", url = "https://m.weibo.cn/u/7616732736?uid=7616732736&t=userinfo&_T_WM=dbf6773807eae887cc3c0283a7e8e521" },
+    { name = "Rednote", url = "https://xhslink.com/m/8poHWjpzgKj" },
+    
+]
+# Profile bio.
+# Supports Markdown.
+bio = """你好！这里是Mandy的外接大脑，她正在学习简单编程。最后更新时间：2025-11-18  
+这儿的一切都有待开发，很高兴你能常来看看！^^  
+"""
