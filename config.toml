@@ -234,8 +234,8 @@ name = "杂食酵母"
 # "url" supports "$BASE_URL".
 # Other variables: "urls", "title", "titles".
 social = [
-    { name = "Email", url = "mailto:mandyingnow@163.com" },
-    { name = "Github", url = "https://github.com/Geturcodetogether" },
+    { name = "email", url = "mailto:mandyingnow@163.com" },
+    { name = "github", url = "https://github.com/Geturcodetogether" },
     { name = "Sina-weibo", url = "https://m.weibo.cn/u/7616732736?uid=7616732736&t=userinfo&_T_WM=dbf6773807eae887cc3c0283a7e8e521" },
     { name = "Rednote", url = "https://xhslink.com/m/8poHWjpzgKj" },
     
