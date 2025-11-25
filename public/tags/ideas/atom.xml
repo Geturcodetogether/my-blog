@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Mandy 的博客 - ideas</title>
+    <subtitle>Fashion · Design · Music · Philosophy by Mandy</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://www.chic-yeast.com/tags/ideas/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.chic-yeast.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-11-20T00:00:00+00:00</updated>
+    <id>https://www.chic-yeast.com/tags/ideas/atom.xml</id>
+    <entry xml:lang="en">
+        <title>短想法</title>
+        <published>2025-11-20T00:00:00+00:00</published>
+        <updated>2025-11-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Mandy
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.chic-yeast.com/pages/thoughts/"/>
+        <id>https://www.chic-yeast.com/pages/thoughts/</id>
+        
+        <content type="html" xml:base="https://www.chic-yeast.com/pages/thoughts/">&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;话说回来，如果编程是学习一门语言的话，程序员难道不应该是文科吗？ ——2025.11.24&lt;&#x2F;p&gt; 
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;p&gt;今天摸鱼的收获是设置了 Github 的 SSH 密钥，这样我就可以在本地用 Cursor 编辑好 md 文章，不用通过 HTTPS 就能 push 代码更新网页内容。就是这个同步倒来倒去没完了。如果我既要在公司电脑编辑，又在 Github 上编辑，回家还会用 Macbook 编辑，就搞不清楚到底哪一边是最新的。也许每次更新前都要 pull 一下代码？——2025.11.21 &lt;&#x2F;p&gt;  
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;p&gt;今天和朋友达成一个共识：健身房和夜店很像，是容易让人不安的场所。一方面是大家抱着不同的目标聚集在一起：也许是通过运动发泄压力，健康，健美；也许是喝酒放松，听歌&#x2F;跳舞解压，找人亲嘴。你在展示什么，又想获得什么，这是一种混乱的磁场。一方面敏感的人会感受到隐藏在行为背后的强烈的目的性和攻击性，进而把自己的社交压力投射在这之上。所以常常能看到在健身房&#x2F;酒吧虚空索敌之人，意思是别来，或者，快来惹我。——2025.11.20 &lt;&#x2F;p&gt;  
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
