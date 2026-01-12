@@ -5,9 +5,11 @@ date = 2025-11-20
 tags = ["ideas"]
 categories = ["思考"]
 +++
+- <P> Somehow I'm at the point that my vocabulary is rich enough for me to pull out the words that I'm trying to say but my ability to express keeps holding me back. Maybe I don't need to learn 'English'. I just need to learn how to communicate, by using simple words. ——2025.12.26
+
 - <P> 对我来说愉快的生活是白天让大脑锻炼多一些，身体少一些，晚上让身体锻炼多一些，大脑参与少一些，这样的放电方式到了晚上就自动有好的睡眠，而且和健身一样，大脑的操练也需要至少持续一小时无打扰的深度思考，持续的低强度会很疲劳。休息的本质是切换。——2025.12.19
 
-- <P> 还是没忍住让chatgpt给我算了八字，我自己总结来说：原来我是一个酒精灯。——2025.12.17
+- <P> 还是没忍住让chatgpt给我算了八字，我自己总结来说：原来我是一个酒精灯，是一个茶宠。——2025.12.17
 
 - <P> 我觉得喜欢一个人就是：你要是早说你跟谁都可以那么好，那我我也还是想要跟你那么好！（哼 ——2025.12.17
 
