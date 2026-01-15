@@ -5,6 +5,13 @@ date = 2025-11-20
 tags = ["ideas"]
 categories = ["思考"]
 +++
+- <P> 人生体验不能也不应该为避免小概率事件的发生而被牺牲。You do you. ——2026.01.12
+<div style="text-align:center;">
+  <img src="/images/20251231.jpg" alt="dinner" style="width:40%; display:inline-block;">
+</div>
+
+- <P> 如果我会读心术，我第一个想知道的是，面对着乘客坐在安全出口，笔笔直地坐着且不玩手机的空姐，大部分时间究竟在想些什么 ——2026.01.03
+
 - <P> Somehow I'm at the point that my vocabulary is rich enough for me to pull out the words that I'm trying to say but my ability to express keeps holding me back. Maybe I don't need to learn 'English'. I just need to learn how to communicate, by using simple words. ——2025.12.26
 
 - <P> 对我来说愉快的生活是白天让大脑锻炼多一些，身体少一些，晚上让身体锻炼多一些，大脑参与少一些，这样的放电方式到了晚上就自动有好的睡眠，而且和健身一样，大脑的操练也需要至少持续一小时无打扰的深度思考，持续的低强度会很疲劳。休息的本质是切换。——2025.12.19
