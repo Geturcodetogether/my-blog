@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title>Mandy 的博客 - woman</title>
+    <title>Mandy 的博客 - idea</title>
     <subtitle>Fashion · Design · Music · Philosophy by Mandy</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://www.chic-yeast.com/tags/woman/atom.xml"/>
+    <link rel="self" type="application/atom+xml" href="https://www.chic-yeast.com/tags/idea/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://www.chic-yeast.com"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2026-01-28T00:00:00+00:00</updated>
-    <id>https://www.chic-yeast.com/tags/woman/atom.xml</id>
+    <id>https://www.chic-yeast.com/tags/idea/atom.xml</id>
     <entry xml:lang="en">
         <title>写给我的好朋友靳紫微同学的一封情书</title>
         <published>2026-01-28T00:00:00+00:00</published>
@@ -39,52 +39,6 @@
 &lt;p&gt;我的喜欢，就像树叶喜欢树一样，但我知道树有很多树叶，但我也不在乎。我会希望他获得他想获得的爱，过他想过的生活。&lt;&#x2F;p&gt;
 &lt;p&gt;时间又到了2025年，我终于结束了一份糟糕的工作，偶然得知我妈打算自驾去山西。&lt;&#x2F;p&gt;
 </content>
-        
-    </entry>
-    <entry xml:lang="en">
-        <title>父权制是如何产生的</title>
-        <published>2025-11-21T00:00:00+00:00</published>
-        <updated>2025-11-21T00:00:00+00:00</updated>
-        
-        <author>
-          <name>
-            
-              Mandy
-            
-          </name>
-        </author>
-        
-        <link rel="alternate" type="text/html" href="https://www.chic-yeast.com/blog/fu-quan-zhi-shi-ru-he-chan-sheng-de/"/>
-        <id>https://www.chic-yeast.com/blog/fu-quan-zhi-shi-ru-he-chan-sheng-de/</id>
-        
-        <content type="html" xml:base="https://www.chic-yeast.com/blog/fu-quan-zhi-shi-ru-he-chan-sheng-de/">&lt;p&gt;在节育、抗生素和新生儿病房发明之前，大多数妇女的一生都消耗在怀孕、分娩、死于分娩、和生一堆孩子上。而由于婴儿死亡率高，又没有节育措施–这就把 16-40 岁的女性人口排除在外了，否则她们在领导&#x2F;权力职位上会有很大的发言权。  
-&lt;p&gt;与此同时，这些人口中的所有男人，由于不需要被困在这项令人精疲力尽的致命工作中，几千年来，他们利用所有的空闲时间到处玩战争、玩国王的游戏，就这样，有利于他们的社会结构 - 父权制就被创造出来了。  
-&lt;br&gt;&lt;br&#x2F;&gt;
-&lt;p&gt;所以似乎“会玩”变成了男人的才华，仿佛他们生在这个世界上就是来“玩”的，玩山玩水玩社会规则。然而男人和女人本质上并无差别，但是女人似乎有无数的坎坷阻碍她做到这个，她要成为一个战士才有可能玩耍。  
-&lt;p&gt;所以在女人身上，那不叫才能，那叫将军气派。从生育中解放的女人也开始“玩”起来了。当然，会玩的人从一开始就在玩，生育和母职本质只是一组镣铐。
-&lt;p&gt;我们可以很开心地看见一部分女人已经开始轻装上阵，争夺制定玩耍规则的话语权。
-</content>
-        
-    </entry>
-    <entry xml:lang="en">
-        <title>月经周期锻炼指南</title>
-        <published>2025-11-17T00:00:00+00:00</published>
-        <updated>2025-11-17T00:00:00+00:00</updated>
-        
-        <author>
-          <name>
-            
-              Mandy
-            
-          </name>
-        </author>
-        
-        <link rel="alternate" type="text/html" href="https://www.chic-yeast.com/blog/period/"/>
-        <id>https://www.chic-yeast.com/blog/period/</id>
-        
-        <summary type="html">&lt;p&gt;这是听播客听来的，不一定对，但是我每周都会点开看看自己的状态。希望未来能有更科学的指导。&amp;hellip;
-&lt;&#x2F;p&gt;
-</summary>
         
     </entry>
 </feed>
