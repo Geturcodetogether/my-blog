@@ -1,5 +1,6 @@
 +++
 title = "《Negotiating the deal》内容精选和读后感"
+description = "本文是《Negotiating the deal》这本书中的学习笔记，精选了书中的一些谈判要点，方便笔者在工作中生活中进行重大谈判之前复习"
 date = 2026-01-26
 [taxonomies]
 tags = ["work", "insight"]
