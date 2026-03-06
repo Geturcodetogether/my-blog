@@ -5,8 +5,30 @@
     <link rel="self" type="application/atom+xml" href="https://www.chic-yeast.com/tags/work/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://www.chic-yeast.com"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2026-01-26T00:00:00+00:00</updated>
+    <updated>2026-03-06T00:00:00+00:00</updated>
     <id>https://www.chic-yeast.com/tags/work/atom.xml</id>
+    <entry xml:lang="en">
+        <title>关于投资的哲学思考</title>
+        <published>2026-03-06T00:00:00+00:00</published>
+        <updated>2026-03-06T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Mandy
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.chic-yeast.com/blog/investment/"/>
+        <id>https://www.chic-yeast.com/blog/investment/</id>
+        
+        <content type="html" xml:base="https://www.chic-yeast.com/blog/investment/">&lt;p&gt;&lt;pr&gt;投资是什么，其实是换未来世界财富相对性占比的增加。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;pr&gt;假设说分母是这个社会的、世界的，因为科技因为制度等等原因变化的财富，分子是我的财富，如果只是持有现金的话，长期来看其实它是在下降的，因为未来世界财富肯定是增长的，那在这个增长的版图中，哪些资产的占比会变大，只要看清楚这一点，把现在拥有的现金去换成那个就可以了。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;pr&gt;投资主要目的是为了让我的购买力不下降。所以可以解决很多假问题，比如很多人问什么时候止盈，其实某种程度上来说它还是认为股票和现金是不一样的，或者觉得当前现金的未来财富占比是比手上持有的股票还要更高的，但实际上不是这样的。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>《Negotiating the deal》内容精选和读后感</title>
         <published>2026-01-26T00:00:00+00:00</published>
