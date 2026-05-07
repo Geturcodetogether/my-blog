@@ -2,7 +2,7 @@
 title = "写给我的好朋友靳紫微同学的一封情书"
 date = 2026-01-28
 [taxonomies]
-tags = ["idea", "woman"]
+tags = ["ideas", "woman"]
 categories = ["思考"]
 +++
 
