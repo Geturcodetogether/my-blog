@@ -5,6 +5,10 @@ date = 2025-11-20
 tags = ["ideas"]
 categories = ["思考"]
 +++
+- <P>芝麻菜和折耳根是真的一点也吃不下去啊！！ ——2026.05.09
+
+- <P> 当我不追求确定性，而是清晰度的时候。I'm comfortably walking into the ambiguity. ——2026.05.09
+
 - <P> 心血来潮买了8斤青梅，打算自己开始做梅子酒了！——2026.05.07
 
 - <P> https://chatgpt.com/c/69e6e096-e008-8320-8562-d7b6465d3836
